@@ -343,3 +343,20 @@ nav a:active {
   max-width: 640px;
   text-align: center;
 }
+.user-persona {
+  background-color: #f0fff0;
+  padding: 2em;
+  margin-top: 2em;
+  border-radius: 10px;
+  border-left: 5px solid #2e8b57;
+}
+
+.user-persona h3 {
+  color: #2e8b57;
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 1em;
+}
+
+.persona-box p {
+  margin: 0.5em 0;
+}
